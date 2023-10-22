@@ -13,3 +13,6 @@ To run the example, install
 Michigan Image Reconstruction Toolbox (MIRT),
 and then run the script:
 `ir_mri_al_p2_example`
+
+This code is also available in MIRT itself:
+https://github.com/JeffFessler/mirt/tree/main/contrib/ramani/al-p2
